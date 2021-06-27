@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/BookShop">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" maxActive="20" maxIdle="10" maxWait="-1" name="ASS3" password="123" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=LAB231_HanaShop" username="sa"/>
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" maxActive="20" maxIdle="10" maxWait="-1" name="a" password="123" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=LAB231_HanaShop" username="sa"/>
+</Context>
